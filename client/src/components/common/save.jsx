@@ -14,4 +14,3 @@ const Save = props => {
 };
 
 export default Save;
-© 2019 GitHub, Inc.
