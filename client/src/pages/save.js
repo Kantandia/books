@@ -86,7 +86,7 @@ class Saved extends Component {
             ) : (
               <div className="mockup-content">
                 <h2 className="brand-title text-center">
-                  No saved books in the database
+                 Try taking some culture douchenozzle
                 </h2>
               </div>
             )}
