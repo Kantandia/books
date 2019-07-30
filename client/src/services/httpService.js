@@ -14,7 +14,7 @@ axios.interceptors.response.use(null, error => {
     // - Log them
     // - Display a generic and friendly error message
     logger.log(error);
-    toast.error("Go Fuck a DUCK.");
+    toast.error("500 series Go Fuck a DUCK.");
   }
 
   return Promise.reject(error);
